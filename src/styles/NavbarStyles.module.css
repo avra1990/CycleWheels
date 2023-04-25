@@ -1,0 +1,36 @@
+:root {
+    --main-color:rgb(41, 41, 223);
+    --main-colorLight:rgb(85, 85, 252);
+    --main-secodnaryColor: rgb(17, 146, 206);
+    --text-color: #eee;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    background-color:var(--main-color);
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.navbar nav {
+    padding: 5px;
+    font-size: 15px;
+}
+
+.nav:hover {
+    color:var(--main-colorLight)
+}
+
+@media only screen and(max-width: 1024px){
+    
+}
+

@@ -1,0 +1,190 @@
+
+[
+    {
+        "id":"1",
+        "teamName": "AG2R Citroen Team",
+        "registered":"France",
+        "founded": "1992",
+        "generalManager": "Vincent Lavenu",
+        "bicycle":"BMC",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Ben O'Connor"
+    },
+    {
+        "id": "2",
+        "teamName": "Astana",
+        "registered":"Kazakhstan",
+        "founded": "2007",
+        "generalManager": "Alexander Vinoukourov",
+        "bicycle":"Wilier Triestina",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Vincenzo Nibali"
+    },
+    {
+        "id": "3",
+        "teamName": "Bahrain Victorious",
+        "registered":"Bahrain",
+        "founded": "2017",
+        "generalManager": "Milan Eržen",
+        "bicycle":"Merida",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Mikel Landa"
+    },
+    {
+        "id": "4",
+        "teamName": "Bora-Hansgrohe",
+        "registered":"Germany",
+        "founded": "2010",
+        "generalManager": "Ralph Denk",
+        "bicycle":"Specialized",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Jai Hindley"
+    },
+    {
+        "id": "5",
+        "teamName": "Cofidis",
+        "registered":"France",
+        "founded": "1997",
+        "generalManager": "Cédric Vasseur",
+        "bicycle":"Da Rosa",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "André Carvalho"
+    },
+    {
+        "id": "6",
+        "teamName": "EF Education-EasyPost",
+        "registered":"United states",
+        "founded": "2003",
+        "generalManager": "Jonathan Vaughters",
+        "bicycle":"Cannondale",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Rigoberto Uran"
+    },
+    {
+        "id": "7",
+        "teamName": "Groupama-FDJ",
+        "registered":"France",
+        "founded": "1997",
+        "generalManager": "Marc Madiot",
+        "bicycle":"Lapierre",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Thibaut Pinot"
+    },
+    {
+        "id": "8",
+        "teamName": "Ineos Grenadiers",
+        "registered":"United Kingdom",
+        "founded": "2009",
+        "generalManager": "Sir Dave Brailsford",
+        "bicycle":"Pinarello",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Filippo Ganna"
+    },
+    {
+        "id": "9",
+        "teamName": "Israel-Premier Tech",
+        "registered":"Israel",
+        "founded": "2015",
+        "generalManager": "Kjell Carlström",
+        "bicycle":"Factor",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Chris Froome"
+    },
+    {
+        "id": "10",
+        "teamName": "Jumbo-Visma",
+        "registered":"Netherlands",
+        "founded": "1984",
+        "generalManager": "Richard Plugge",
+        "bicycle":"Cervélo",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Primož Roglic"
+    },
+    {
+        "id": "11",
+        "teamName": "Lotto-Soudal",
+        "registered":"Belgium",
+        "founded": "1985",
+        "generalManager": "Cees Pille",
+        "bicycle":"Ridley",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Caleb Ewan"
+    },
+    {
+        "id": "12",
+        "teamName": "Movistar Team",
+        "registered":"Spain",
+        "founded": "1980",
+        "generalManager": "Eusebio Unzué",
+        "bicycle":"Canyon",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Gorka Izaggire"
+    },
+    {
+        "id": "13",
+        "teamName": "QuickStep Alpha Vinyl Team",
+        "registered":"Belgium",
+        "founded": "2003",
+        "generalManager": "Patrick Lefevere",
+        "bicycle":"Specialized",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Julian Alaphilippe"
+    },
+    {
+        "id": "14",
+        "teamName": "Team BikeExchange-Jayco",
+        "registered":"Australia",
+        "founded": "2011",
+        "generalManager": "Brent Copeland",
+        "bicycle":"Giant",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Simon Yates"
+    },
+    {
+        "id": "15",
+        "teamName": "Team DSM",
+        "registered":"Netherlands",
+        "founded": "2005",
+        "generalManager": "Iwan Spekenbrink",
+        "bicycle":"Scott",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Romain Bardet"
+    },
+    {
+        "id": "16",
+        "teamName": "Trek-Segafredo",
+        "registered":"United states",
+        "founded": "2011",
+        "generalManager": "Luca Guercilena",
+        "bicycle":"Trek",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Mads Pedersen"
+    },
+    {
+        "id": "17",
+        "teamName": "UAE Team Emirates",
+        "registered":"United Arab Emirates",
+        "founded": "1999",
+        "generalManager": "Giuseppe Saronni",
+        "bicycle":"Colnago",
+        "status": "UCI World-team",
+        "logo": "",
+        "famousRider": "Tadej Pogačar"
+    }
+]
