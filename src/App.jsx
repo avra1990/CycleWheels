@@ -12,7 +12,6 @@ const App = () => {
             <Routes>
                 <Route path='/' exact element={<Home />} />
                 <Route path ='/contract' element={<ContractForm />}></Route>
-                <Route path ='/teams' element={<Teams />}></Route>
                 <Route path ='/contract' element={<ContractForm />}></Route>
             </Routes>
         </BrowserRouter>
