@@ -1,11 +1,12 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import '../../styles/NavbarStyles.module.css';
+import styles from "../styles/NavbarStyles.module.css";
 
 
 const Navbar = () => {
     return (
-        <header className='header-main'>
+        <>
+        <header className={styles['header-main']}>
             <nav className='navbar navbar-brand-bg navbar-light bg-light'>
                 <h3>Cycle Wheels</h3>
                 <NavLink to='/'>Home</NavLink>
@@ -15,6 +16,7 @@ const Navbar = () => {
                 <NavLink to='/contract'>Contract</NavLink>
             </nav>
         </header>
+        </>
     )
 }
 

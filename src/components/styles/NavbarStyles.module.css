@@ -14,7 +14,7 @@ body {
 }
 
 .navbar {
-    background-color:var(--main-color);
+    background-color: rgb(67, 89, 99);
     display: flex;
     font-family: 'Courier New', Courier, monospace;
     padding: 5px;
